@@ -10,7 +10,7 @@
 	<img style="padding: 4px;" alt="Label" src="https://img.shields.io/badge/JDK-1.8+-orange">
 	<img style="padding: 4px;" alt="Label" src="https://img.shields.io/badge/SpringBoot-2.4.5-brightgreen">
 	<img style="padding: 4px;" alt="Label" src="https://img.shields.io/badge/MyBatisPlus-3.4.2-red">
-	<img style="padding: 4px;" alt="Label" src="https://img.shields.io/badge/Mysql-8.0+-blue">
+	<img style="padding: 4px;" alt="Label" src="https://img.shields.io/badge/Mysql-8.4-blue">
     <img style="padding: 4px;" alt="Label" src="https://img.shields.io/badge/Maven-4.0.0-brightgreen">
 </p>
 
