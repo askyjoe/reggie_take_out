@@ -37,4 +37,10 @@
 ## introduction
 100
 ## 快速启动
+1.配置SQL
+ 修改 src/main/resources/application.yml 中 'spring:datasource:druid:url:'、'spring:datasource:druid:username:'、'spring:datasource:druid:password:'
+
+2.配置img
+ 修改 src/main/resources/application.yml 中 'reggie:path:' 为本地图片存储地址
+
 
